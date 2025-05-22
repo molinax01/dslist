@@ -14,7 +14,7 @@ public class Belonging {
 	
 	private Integer position;
 	
-	public BelongingPK() {
+	public  Belonging() {
 		
 	}
 
